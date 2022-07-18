@@ -27,7 +27,7 @@
     - `객체지향의 사실과 오해 - 조영호 저`
     - `스프링 입문을 위한 자바 객체 지향의 원리와 이해 - 김종민 저`
 
-## [2. Mission-Base-Project](docs/2_Mission-Base-Project)
+## [2. Mission-Base-Project](docs/2_Mission-Base-Project.md)
 
 > repo-link (to be continued..)
 
